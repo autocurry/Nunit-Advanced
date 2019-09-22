@@ -1,0 +1,15 @@
+/home/sandeep/Desktop/CodePractice/Nunit-Advanced/bin/Debug/netcoreapp2.0/NUnit3.TestAdapter.dll
+/home/sandeep/Desktop/CodePractice/Nunit-Advanced/bin/Debug/netcoreapp2.0/NUnit3.TestAdapter.pdb
+/home/sandeep/Desktop/CodePractice/Nunit-Advanced/bin/Debug/netcoreapp2.0/nunit.engine.netstandard.dll
+/home/sandeep/Desktop/CodePractice/Nunit-Advanced/bin/Debug/netcoreapp2.0/Mono.Cecil.dll
+/home/sandeep/Desktop/CodePractice/Nunit-Advanced/bin/Debug/netcoreapp2.0/Nunit-Advanced.deps.json
+/home/sandeep/Desktop/CodePractice/Nunit-Advanced/bin/Debug/netcoreapp2.0/Nunit-Advanced.runtimeconfig.json
+/home/sandeep/Desktop/CodePractice/Nunit-Advanced/bin/Debug/netcoreapp2.0/Nunit-Advanced.runtimeconfig.dev.json
+/home/sandeep/Desktop/CodePractice/Nunit-Advanced/bin/Debug/netcoreapp2.0/Nunit-Advanced.dll
+/home/sandeep/Desktop/CodePractice/Nunit-Advanced/bin/Debug/netcoreapp2.0/Nunit-Advanced.pdb
+/home/sandeep/Desktop/CodePractice/Nunit-Advanced/obj/Debug/netcoreapp2.0/Nunit-Advanced.csprojAssemblyReference.cache
+/home/sandeep/Desktop/CodePractice/Nunit-Advanced/obj/Debug/netcoreapp2.0/Nunit-Advanced.csproj.CoreCompileInputs.cache
+/home/sandeep/Desktop/CodePractice/Nunit-Advanced/obj/Debug/netcoreapp2.0/Nunit-Advanced.AssemblyInfoInputs.cache
+/home/sandeep/Desktop/CodePractice/Nunit-Advanced/obj/Debug/netcoreapp2.0/Nunit-Advanced.AssemblyInfo.cs
+/home/sandeep/Desktop/CodePractice/Nunit-Advanced/obj/Debug/netcoreapp2.0/Nunit-Advanced.dll
+/home/sandeep/Desktop/CodePractice/Nunit-Advanced/obj/Debug/netcoreapp2.0/Nunit-Advanced.pdb
